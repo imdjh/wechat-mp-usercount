@@ -13,5 +13,9 @@
 3. 在浏览器里打开`chrome://extensions`地址，开启开发者模式，点击**载入已解压
    插件**
 
+# 效果演示啦
+![extension demo
+pic](https://raw.githubusercontent.com/imdjh/wechat-mp-usercount/master/extension_demo.png)
+
 # 代码授权
 除了相关第三方库以外，均为MIT授权。

@@ -1,16 +1,15 @@
 {
   "manifest_version": 2,
 
-  "name": "Enemy count from XC",
-  "description": "This extension return the count of enemies",
-  "version": "1.0",
+  "name": "微信公众号人数统计",
+  "description": "节约出更多的开发者的时间",
+  "version": "1.1",
 
   "browser_action": {
     "default_icon": "icon.png",
     "default_popup": "index.html"
   },
   "permissions": [
-    "activeTab",
     "<all_urls>"
   ]
 }
